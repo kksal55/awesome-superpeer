@@ -95,6 +95,8 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Subhrajyoti Sen](https://superpeer.com/subhrajyoti) - Android Developer, Mentor
 * [Yusuf Çakmak](https://superpeer.com/yusufcakmak) - Senior Android Developer @ arabam.com 
 * [Ümit Duran](https://superpeer.com/flutterist) - Flutter Developer
+* [Köksal iyigün](https://superpeer.com/koksaliyigun) - Computer engineer,Mobile application developer,DevOps enthusiast
+
 
 ## Software Career Mentorship
 
@@ -214,7 +216,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Giray Batıtürk](https://superpeer.com/giray) - UX Manager
 * [Eren Alkış](https://superpeer.com/ea) - Graphic Designer
-* [Köksal iyigün](https://superpeer.com/koksaliyigun) - Computer engineer,Mobile application developer,DevOps enthusiast
 * [Egemen Can Ökten](https://superpeer.com/egemen) - Full Stack Developer
 * [Mert Torun](https://superpeer.com/merttorun) - Ürün tasarımcısı
 * [Ali Gündoğdu](https://superpeer.com/aligundogdu) - Full Stack Developer, Yönetici
